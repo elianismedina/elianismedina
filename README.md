@@ -16,7 +16,7 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / PHP / DJANGO
 - 📫 How to reach me: elianismedina05@icloud.com 
 - 😄 Pronouns: he/his 
 
-  [![elianismedina's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianismedina)](https://github.com/elianismedina/github-readme-stats)
+  [![elianismedina's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianismedina&show_icons=true)](https://github.com/elianismedina/github-readme-stats)
 
 
 
