@@ -8,7 +8,13 @@ I would like to become a software engineer someday and I enjoy creating my own p
 
 Skills: NEXT JS / REACT / JS / HTML / CSS / PHP / DJANGO
 
-
+- 🔭 I’m currently working on A loan app with Laravel and Jetstream 
+- 🌱 I’m currently learning Mobile app development with Java 
+- 👯 I’m looking to collaborate on Web/Mobile development projects 
+- 🤔 I’m looking for help with Laravel app deployment 
+- 💬 Ask me about Web/Mobile development 
+- 📫 How to reach me: elianismedina05@icloud.com 
+- 😄 Pronouns: he/his 
 
   [![elianismedina's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianismedina)](https://github.com/elianismedina/github-readme-stats)
 
